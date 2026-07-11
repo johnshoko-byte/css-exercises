@@ -1,0 +1,3 @@
+i learned in this lesson about the cascade in css which stands for cascading style sheet
+cascade is the prioty of different styling and how css handels which syles take priority over others is a 
+cascading manor of importance like ids take priority over classes and so forth
